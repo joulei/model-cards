@@ -313,5 +313,14 @@
         "model_type": "chat",
         "like_count": 0,
         "download_count": 443
+    },
+    {
+        "id": "second-state/Deepseek-LLM-7B-Chat-GGUF",
+        "name": "Deepseek-LLM-7B-Chat-GGUF",
+        "architecture": "",
+        "featured": true,
+        "model_type": "chat",
+        "like_count": 2,
+        "download_count": 935
     }
 ]
